@@ -4,7 +4,7 @@ Game of Thrones is a MMORPG-based learning platform built using Unity3D. Student
 
 Questions quizzed on the platform are added by teachers on a separate full-stacked interface (React, Redux, Python, FastAPI, SQLite), additionally allowing teachers to create and share mini-quests on social media to inform students of newly created mini-quests for them to attempt. Teachers can generate statistics and summary reports of individual students or the entire cohort. Both of the interfaces are unit tested (Unity Test Framework, Jest, Mocha, Chai) and load tested (Performance Testing Extension for Unity, Cicada Distributed) to ensure that our interfaces will function correctly and perform under high traffic. Administration interface is also additionally security tested using Selenium and OWASP ZAP since this interface accesses sensitive data.
 
-### Project/Code Repository Directory
+## Project/Code Repository Directory
 
 - [AUI Repository](https://github.com/ernestang98/ssad-aui)
 
