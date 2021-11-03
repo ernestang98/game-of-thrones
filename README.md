@@ -8,6 +8,6 @@ Questions quizzed on the platform are added by teachers on a separate full-stack
 
 - [AUI Repository](https://github.com/ernestang98/ssad-aui)
 
-- [Game Repository (Not available yet)](https://github.com/ernestang98/ssad-aui)
+- [Game Repository](https://github.com/ernestang98/ssad-game)
 
 - [API Repository](https://github.com/ernestang98/ssad-api)
