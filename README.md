@@ -12,7 +12,7 @@ Questions quizzed on the platform are added by teachers on a separate full-stack
 
 - [API Repository](https://github.com/ernestang98/ssad-api)
 
-## Project/Code Repository Directory
+## Project Demonstration
 
 - [Project Demonstration](https://www.youtube.com/watch?v=8fV7pFWjwcU)
 
