@@ -11,3 +11,9 @@ Questions quizzed on the platform are added by teachers on a separate full-stack
 - [Game Repository](https://github.com/ernestang98/ssad-game)
 
 - [API Repository](https://github.com/ernestang98/ssad-api)
+
+## Project/Code Repository Directory
+
+- [Project Demonstration](https://www.youtube.com/watch?v=8fV7pFWjwcU)
+
+- [Project Presentation](https://www.youtube.com/watch?v=9UDTRUR-dSk) 
