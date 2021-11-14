@@ -1,0 +1,1298 @@
+
+cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+GWeb:ImgWithoutAltCheckM"%Add an "alt" attribute to this image.(©İí¦
+MWeb:TableWithoutCaptionCheckU" Add a description to this table.(¸ŒÒ“øÿÿÿÿ
+C	Web:S1827U")Remove this deprecated "width" attribute.(¸ŒÒ“øÿÿÿÿ
+@	Web:S1827V"+Remove this deprecated "bgcolor" attribute.(¤–ı·
+C	Web:S1827W")Remove this deprecated "width" attribute.(÷Ø§‚üÿÿÿÿ
+D	Web:S1827W"*Remove this deprecated "height" attribute.(÷Ø§‚üÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckW";Add either an 'id' or a 'scope' attribute to this <th> tag.(÷Ø§‚üÿÿÿÿ
+C	Web:S1827X")Remove this deprecated "width" attribute.(—ÇÇûÿÿÿÿ
+C	Web:S1827X")Remove this deprecated "align" attribute.(—ÇÇûÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckX";Add either an 'id' or a 'scope' attribute to this <th> tag.(—ÇÇûÿÿÿÿ
+E	Web:S1827["+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+>	Web:S1827\")Remove this deprecated "align" attribute.(¤Ûéı
+E	Web:S1827^"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+C	Web:S1827_")Remove this deprecated "align" attribute.(„Šêÿÿÿÿÿ
+E	Web:S1827a"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+C	Web:S1827b")Remove this deprecated "align" attribute.(™µäÑúÿÿÿÿ
+E	Web:S1827d"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+C	Web:S1827e")Remove this deprecated "align" attribute.(ûµ×úúÿÿÿÿ
+MWeb:TableWithoutCaptionCheckj" Add a description to this table.(ïı§ıÿÿÿÿ
+C	Web:S1827j")Remove this deprecated "width" attribute.(ïı§ıÿÿÿÿ
+@	Web:S1827k"+Remove this deprecated "bgcolor" attribute.(¤–ı·
+C	Web:S1827l")Remove this deprecated "width" attribute.(ú£úØşÿÿÿÿ
+D	Web:S1827l"*Remove this deprecated "height" attribute.(ú£úØşÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckl";Add either an 'id' or a 'scope' attribute to this <th> tag.(ú£úØşÿÿÿÿ
+C	Web:S1827l")Remove this deprecated "width" attribute.(ú£úØşÿÿÿÿ
+C	Web:S1827l")Remove this deprecated "align" attribute.(ú£úØşÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckl";Add either an 'id' or a 'scope' attribute to this <th> tag.(ú£úØşÿÿÿÿ
+C	Web:S1827l")Remove this deprecated "width" attribute.(ú£úØşÿÿÿÿ
+C	Web:S1827l")Remove this deprecated "align" attribute.(ú£úØşÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckl";Add either an 'id' or a 'scope' attribute to this <th> tag.(ú£úØşÿÿÿÿ
+E	Web:S1827n"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+>	Web:S1827o")Remove this deprecated "align" attribute.(ØçÂ
+>	Web:S1827o")Remove this deprecated "align" attribute.(ØçÂ
+E	Web:S1827q"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+>	Web:S1827r")Remove this deprecated "align" attribute.(·‹ßÿ
+>	Web:S1827r")Remove this deprecated "align" attribute.(·‹ßÿ
+E	Web:S1827t"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+C	Web:S1827u")Remove this deprecated "align" attribute.(¯É·Óÿÿÿÿÿ
+C	Web:S1827u")Remove this deprecated "align" attribute.(¯É·Óÿÿÿÿÿ
+E	Web:S1827w"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+>	Web:S1827x")Remove this deprecated "align" attribute.(ùš¯Í
+>	Web:S1827x")Remove this deprecated "align" attribute.(ùš¯Í
+E	Web:S1827z"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+>	Web:S1827{")Remove this deprecated "align" attribute.(÷¤Û
+>	Web:S1827{")Remove this deprecated "align" attribute.(÷¤Û
+E	Web:S1827}"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+C	Web:S1827~")Remove this deprecated "align" attribute.(»äãßşÿÿÿÿ
+C	Web:S1827~")Remove this deprecated "align" attribute.(»äãßşÿÿÿÿ
+F	Web:S1827€"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827")Remove this deprecated "align" attribute.(Ë¿
+?	Web:S1827")Remove this deprecated "align" attribute.(Ë¿
+IWeb:TableWithoutCaptionCheck‡" Add a description to this table.(ã‘ƒü
+?	Web:S1827‡")Remove this deprecated "width" attribute.(ã‘ƒü
+?	Web:S1827")Remove this deprecated "width" attribute.(Å™Ğƒ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(Å™Ğƒ
+>	Web:S1827"(Remove this deprecated "name" attribute.(Å™Ğƒ
+?	Web:S1827")Remove this deprecated "width" attribute.(Å™Ğƒ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(Å™Ğƒ
+F	Web:S1827“"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827”")Remove this deprecated "width" attribute.(Ú»ì–şÿÿÿÿ
+D	Web:S1827”")Remove this deprecated "width" attribute.(Ú»ì–şÿÿÿÿ
+@	Web:S1827–"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827œ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827")Remove this deprecated "width" attribute.(ıŸö¨ıÿÿÿÿ
+D	Web:S1827")Remove this deprecated "width" attribute.(ıŸö¨ıÿÿÿÿ
+F	Web:S1827 "+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¡")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827¡")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827¤"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¥")Remove this deprecated "width" attribute.(ªÂıÎ
+?	Web:S1827¥")Remove this deprecated "width" attribute.(ªÂıÎ
+F	Web:S1827¨"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827©")Remove this deprecated "width" attribute.(í£ÚÑ
+?	Web:S1827©")Remove this deprecated "width" attribute.(í£ÚÑ
+F	Web:S1827®"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827¯")Remove this deprecated "width" attribute.(ùçÓÿÿÿÿÿ
+D	Web:S1827¯")Remove this deprecated "width" attribute.(ùçÓÿÿÿÿÿ
+F	Web:S1827²"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+>	Web:S1827³")Remove this deprecated "width" attribute.(‰•¦'
+>	Web:S1827³")Remove this deprecated "width" attribute.(‰•¦'
+F	Web:S1827¶"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827·")Remove this deprecated "width" attribute.(È·²•úÿÿÿÿ
+D	Web:S1827·")Remove this deprecated "width" attribute.(È·²•úÿÿÿÿ
+F	Web:S1827º"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827»")Remove this deprecated "width" attribute.(¥å¸üÿÿÿÿ
+D	Web:S1827»")Remove this deprecated "width" attribute.(¥å¸üÿÿÿÿ
+F	Web:S1827¾"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¿")Remove this deprecated "width" attribute.(‘Âı
+?	Web:S1827¿")Remove this deprecated "width" attribute.(‘Âı
+F	Web:S1827Â"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ã")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+D	Web:S1827Ã")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+IWeb:TableWithoutCaptionCheckÈ" Add a description to this table.(ã‘ƒü
+?	Web:S1827È")Remove this deprecated "width" attribute.(ã‘ƒü
+D	Web:S1827Î")Remove this deprecated "width" attribute.(¾Ô×øÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¾Ô×øÿÿÿÿ
+C	Web:S1827Î"(Remove this deprecated "name" attribute.(¾Ô×øÿÿÿÿ
+D	Web:S1827Î")Remove this deprecated "width" attribute.(¾Ô×øÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¾Ô×øÿÿÿÿ
+F	Web:S1827Ô"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Õ")Remove this deprecated "width" attribute.(–…ù®şÿÿÿÿ
+D	Web:S1827Õ")Remove this deprecated "width" attribute.(–…ù®şÿÿÿÿ
+@	Web:S1827×"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827İ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+>	Web:S1827Ş")Remove this deprecated "width" attribute.(õÔm
+>	Web:S1827Ş")Remove this deprecated "width" attribute.(õÔm
+F	Web:S1827á"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827â")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827â")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827å"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827æ")Remove this deprecated "width" attribute.(­½šƒ
+?	Web:S1827æ")Remove this deprecated "width" attribute.(­½šƒ
+F	Web:S1827ë"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ì")Remove this deprecated "width" attribute.(ùçÓÿÿÿÿÿ
+D	Web:S1827ì")Remove this deprecated "width" attribute.(ùçÓÿÿÿÿÿ
+F	Web:S1827ï"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ğ")Remove this deprecated "width" attribute.(ƒäÂÏ
+?	Web:S1827ğ")Remove this deprecated "width" attribute.(ƒäÂÏ
+F	Web:S1827ó"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ô")Remove this deprecated "width" attribute.(ß¾Â†
+?	Web:S1827ô")Remove this deprecated "width" attribute.(ß¾Â†
+F	Web:S1827÷"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ø")Remove this deprecated "width" attribute.(¥å¸üÿÿÿÿ
+D	Web:S1827ø")Remove this deprecated "width" attribute.(¥å¸üÿÿÿÿ
+F	Web:S1827û"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ü")Remove this deprecated "width" attribute.(‘Âı
+?	Web:S1827ü")Remove this deprecated "width" attribute.(‘Âı
+F	Web:S1827ÿ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827€")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+D	Web:S1827€")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+IWeb:TableWithoutCaptionCheck…" Add a description to this table.(ã‘ƒü
+?	Web:S1827…")Remove this deprecated "width" attribute.(ã‘ƒü
+C	Web:S1827‹"(Remove this deprecated "name" attribute.(ñÂïşÿÿÿÿ
+D	Web:S1827‹")Remove this deprecated "width" attribute.(ñÂïşÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheck‹";Add either an 'id' or a 'scope' attribute to this <th> tag.(ñÂïşÿÿÿÿ
+D	Web:S1827‹")Remove this deprecated "width" attribute.(ñÂïşÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheck‹";Add either an 'id' or a 'scope' attribute to this <th> tag.(ñÂïşÿÿÿÿ
+F	Web:S1827‘"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827’")Remove this deprecated "width" attribute.(€Õ²
+?	Web:S1827’")Remove this deprecated "width" attribute.(€Õ²
+@	Web:S1827”"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827š"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827›")Remove this deprecated "width" attribute.(ŸÁÔÕúÿÿÿÿ
+D	Web:S1827›")Remove this deprecated "width" attribute.(ŸÁÔÕúÿÿÿÿ
+F	Web:S1827"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ÿ")Remove this deprecated "width" attribute.(›ÍÎ¶øÿÿÿÿ
+D	Web:S1827Ÿ")Remove this deprecated "width" attribute.(›ÍÎ¶øÿÿÿÿ
+F	Web:S1827¢"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827£")Remove this deprecated "width" attribute.(®Ô·æ
+?	Web:S1827£")Remove this deprecated "width" attribute.(®Ô·æ
+F	Web:S1827¨"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827©")Remove this deprecated "width" attribute.(§ñ‹Õ
+?	Web:S1827©")Remove this deprecated "width" attribute.(§ñ‹Õ
+F	Web:S1827¬"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827­")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827­")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827°"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827±")Remove this deprecated "width" attribute.(®Ô·æ
+?	Web:S1827±")Remove this deprecated "width" attribute.(®Ô·æ
+F	Web:S1827¶"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827·")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827·")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827º"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827»")Remove this deprecated "width" attribute.(›ÍÎ¶øÿÿÿÿ
+D	Web:S1827»")Remove this deprecated "width" attribute.(›ÍÎ¶øÿÿÿÿ
+F	Web:S1827¾"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¿")Remove this deprecated "width" attribute.(®Ô·æ
+?	Web:S1827¿")Remove this deprecated "width" attribute.(®Ô·æ
+F	Web:S1827Ä"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Å")Remove this deprecated "width" attribute.(¨½ÌĞÿÿÿÿÿ
+D	Web:S1827Å")Remove this deprecated "width" attribute.(¨½ÌĞÿÿÿÿÿ
+F	Web:S1827È"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827É")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827É")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Ì"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Í")Remove this deprecated "width" attribute.(®Ô·æ
+?	Web:S1827Í")Remove this deprecated "width" attribute.(®Ô·æ
+F	Web:S1827Ò"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ó")Remove this deprecated "width" attribute.(÷”ªù
+?	Web:S1827Ó")Remove this deprecated "width" attribute.(÷”ªù
+F	Web:S1827Ö"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827×")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827×")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Ú"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Û")Remove this deprecated "width" attribute.(®Ô·æ
+?	Web:S1827Û")Remove this deprecated "width" attribute.(®Ô·æ
+F	Web:S1827à"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827á")Remove this deprecated "width" attribute.(ÇÄš÷
+?	Web:S1827á")Remove this deprecated "width" attribute.(ÇÄš÷
+F	Web:S1827ä"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827å")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827å")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827è"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827é")Remove this deprecated "width" attribute.(®Ô·æ
+?	Web:S1827é")Remove this deprecated "width" attribute.(®Ô·æ
+F	Web:S1827î"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ï")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827ï")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827ò"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ó")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827ó")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827ö"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827÷")Remove this deprecated "width" attribute.(®Ô·æ
+?	Web:S1827÷")Remove this deprecated "width" attribute.(®Ô·æ
+F	Web:S1827ü"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ı")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827ı")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827€"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827")Remove this deprecated "width" attribute.(µóŸ·
+?	Web:S1827")Remove this deprecated "width" attribute.(µóŸ·
+F	Web:S1827„"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827…")Remove this deprecated "width" attribute.(®Ô·æ
+?	Web:S1827…")Remove this deprecated "width" attribute.(®Ô·æ
+F	Web:S1827Š"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827‹")Remove this deprecated "width" attribute.(ıû‰úÿÿÿÿ
+D	Web:S1827‹")Remove this deprecated "width" attribute.(ıû‰úÿÿÿÿ
+F	Web:S1827"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827’"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827“")Remove this deprecated "width" attribute.(®Ô·æ
+?	Web:S1827“")Remove this deprecated "width" attribute.(®Ô·æ
+F	Web:S1827˜"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827™")Remove this deprecated "width" attribute.(ŸÁÔÕúÿÿÿÿ
+D	Web:S1827™")Remove this deprecated "width" attribute.(ŸÁÔÕúÿÿÿÿ
+F	Web:S1827œ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827")Remove this deprecated "width" attribute.(µóŸ·
+?	Web:S1827")Remove this deprecated "width" attribute.(µóŸ·
+F	Web:S1827 "+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¡")Remove this deprecated "width" attribute.(®Ô·æ
+?	Web:S1827¡")Remove this deprecated "width" attribute.(®Ô·æ
+F	Web:S1827¦"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827§")Remove this deprecated "width" attribute.(Şÿø®ıÿÿÿÿ
+D	Web:S1827§")Remove this deprecated "width" attribute.(Şÿø®ıÿÿÿÿ
+F	Web:S1827ª"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827«")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827«")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827®"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¯")Remove this deprecated "width" attribute.(®Ô·æ
+?	Web:S1827¯")Remove this deprecated "width" attribute.(®Ô·æ
+F	Web:S1827´"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827µ")Remove this deprecated "width" attribute.(†ĞŠ˜
+?	Web:S1827µ")Remove this deprecated "width" attribute.(†ĞŠ˜
+F	Web:S1827¸"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827¹")Remove this deprecated "width" attribute.(¾±‰øûÿÿÿÿ
+D	Web:S1827¹")Remove this deprecated "width" attribute.(¾±‰øûÿÿÿÿ
+F	Web:S1827¼"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827½")Remove this deprecated "width" attribute.(¹¥¬Şúÿÿÿÿ
+D	Web:S1827½")Remove this deprecated "width" attribute.(¹¥¬Şúÿÿÿÿ
+F	Web:S1827À"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Á")Remove this deprecated "width" attribute.(óñëº
+?	Web:S1827Á")Remove this deprecated "width" attribute.(óñëº
+F	Web:S1827Ä"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Å")Remove this deprecated "width" attribute.(ÛÁÔş
+?	Web:S1827Å")Remove this deprecated "width" attribute.(ÛÁÔş
+F	Web:S1827È"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827É")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+D	Web:S1827É")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+IWeb:TableWithoutCaptionCheckÎ" Add a description to this table.(ã‘ƒü
+?	Web:S1827Î")Remove this deprecated "width" attribute.(ã‘ƒü
+C	Web:S1827Ô"(Remove this deprecated "name" attribute.(ğ‡Í‘úÿÿÿÿ
+D	Web:S1827Ô")Remove this deprecated "width" attribute.(ğ‡Í‘úÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÔ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ğ‡Í‘úÿÿÿÿ
+D	Web:S1827Ô")Remove this deprecated "width" attribute.(ğ‡Í‘úÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÔ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ğ‡Í‘úÿÿÿÿ
+F	Web:S1827Ú"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+>	Web:S1827Û")Remove this deprecated "width" attribute.(Õ¤Ä0
+>	Web:S1827Û")Remove this deprecated "width" attribute.(Õ¤Ä0
+@	Web:S1827İ"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827ã"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ä")Remove this deprecated "width" attribute.(‘ûÚúÿÿÿÿ
+D	Web:S1827ä")Remove this deprecated "width" attribute.(‘ûÚúÿÿÿÿ
+F	Web:S1827ç"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827è")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827è")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827ë"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ì")Remove this deprecated "width" attribute.(â¦ª¨
+?	Web:S1827ì")Remove this deprecated "width" attribute.(â¦ª¨
+F	Web:S1827ñ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ò")Remove this deprecated "width" attribute.(ËÄÓ“
+?	Web:S1827ò")Remove this deprecated "width" attribute.(ËÄÓ“
+F	Web:S1827õ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ö")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827ö")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827ù"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ú")Remove this deprecated "width" attribute.(â¦ª¨
+?	Web:S1827ú")Remove this deprecated "width" attribute.(â¦ª¨
+F	Web:S1827ÿ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827€")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827€")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827ƒ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827„")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827„")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827‡"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ˆ")Remove this deprecated "width" attribute.(â¦ª¨
+?	Web:S1827ˆ")Remove this deprecated "width" attribute.(â¦ª¨
+F	Web:S1827"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827")Remove this deprecated "width" attribute.(±îª øÿÿÿÿ
+D	Web:S1827")Remove this deprecated "width" attribute.(±îª øÿÿÿÿ
+F	Web:S1827‘"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827’")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827’")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827•"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827–")Remove this deprecated "width" attribute.(â¦ª¨
+?	Web:S1827–")Remove this deprecated "width" attribute.(â¦ª¨
+F	Web:S1827›"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827œ")Remove this deprecated "width" attribute.(«™ø¸şÿÿÿÿ
+D	Web:S1827œ")Remove this deprecated "width" attribute.(«™ø¸şÿÿÿÿ
+F	Web:S1827Ÿ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827 ")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827 ")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827£"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¤")Remove this deprecated "width" attribute.(â¦ª¨
+?	Web:S1827¤")Remove this deprecated "width" attribute.(â¦ª¨
+F	Web:S1827©"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ª")Remove this deprecated "width" attribute.(¨Ú³Å
+?	Web:S1827ª")Remove this deprecated "width" attribute.(¨Ú³Å
+F	Web:S1827­"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827®")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827®")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827±"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827²")Remove this deprecated "width" attribute.(â¦ª¨
+?	Web:S1827²")Remove this deprecated "width" attribute.(â¦ª¨
+F	Web:S1827·"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+>	Web:S1827¸")Remove this deprecated "width" attribute.(õÔm
+>	Web:S1827¸")Remove this deprecated "width" attribute.(õÔm
+F	Web:S1827»"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¼")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827¼")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827¿"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827À")Remove this deprecated "width" attribute.(â¦ª¨
+?	Web:S1827À")Remove this deprecated "width" attribute.(â¦ª¨
+F	Web:S1827Å"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Æ")Remove this deprecated "width" attribute.(ıŸö¨ıÿÿÿÿ
+D	Web:S1827Æ")Remove this deprecated "width" attribute.(ıŸö¨ıÿÿÿÿ
+F	Web:S1827É"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ê")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827Ê")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Í"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Î")Remove this deprecated "width" attribute.(â¦ª¨
+?	Web:S1827Î")Remove this deprecated "width" attribute.(â¦ª¨
+F	Web:S1827Ó"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+>	Web:S1827Ô")Remove this deprecated "width" attribute.(èå³
+>	Web:S1827Ô")Remove this deprecated "width" attribute.(èå³
+F	Web:S1827×"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ø")Remove this deprecated "width" attribute.(ŠÎÈ¯
+?	Web:S1827Ø")Remove this deprecated "width" attribute.(ŠÎÈ¯
+F	Web:S1827Û"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ü")Remove this deprecated "width" attribute.(Õ†ÒÔ
+?	Web:S1827Ü")Remove this deprecated "width" attribute.(Õ†ÒÔ
+F	Web:S1827ß"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827à")Remove this deprecated "width" attribute.(†·ï„øÿÿÿÿ
+D	Web:S1827à")Remove this deprecated "width" attribute.(†·ï„øÿÿÿÿ
+F	Web:S1827ã"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ä")Remove this deprecated "width" attribute.(ÛÁÔş
+?	Web:S1827ä")Remove this deprecated "width" attribute.(ÛÁÔş
+F	Web:S1827ç"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827è")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+D	Web:S1827è")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+IWeb:TableWithoutCaptionCheckí" Add a description to this table.(ã‘ƒü
+?	Web:S1827í")Remove this deprecated "width" attribute.(ã‘ƒü
+>	Web:S1827ó"(Remove this deprecated "name" attribute.(Õ’ıÍ
+?	Web:S1827ó")Remove this deprecated "width" attribute.(Õ’ıÍ
+h Web:TableHeaderHasIdOrScopeCheckó";Add either an 'id' or a 'scope' attribute to this <th> tag.(Õ’ıÍ
+?	Web:S1827ó")Remove this deprecated "width" attribute.(Õ’ıÍ
+h Web:TableHeaderHasIdOrScopeCheckó";Add either an 'id' or a 'scope' attribute to this <th> tag.(Õ’ıÍ
+F	Web:S1827ù"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ú")Remove this deprecated "width" attribute.(®ŠóÄ
+?	Web:S1827ú")Remove this deprecated "width" attribute.(®ŠóÄ
+@	Web:S1827ü"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827‚"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ƒ")Remove this deprecated "width" attribute.(«™ø¸şÿÿÿÿ
+D	Web:S1827ƒ")Remove this deprecated "width" attribute.(«™ø¸şÿÿÿÿ
+F	Web:S1827†"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827‡")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827‡")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Š"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827‹")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+D	Web:S1827‹")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+F	Web:S1827"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827‘")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827‘")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827”"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827•")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827•")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827˜"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827™")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+D	Web:S1827™")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+F	Web:S1827"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ÿ")Remove this deprecated "width" attribute.(ËÄÓ“
+?	Web:S1827Ÿ")Remove this deprecated "width" attribute.(ËÄÓ“
+F	Web:S1827¢"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827£")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827£")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827¦"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827§")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+D	Web:S1827§")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+F	Web:S1827¬"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+>	Web:S1827­")Remove this deprecated "width" attribute.(õÔm
+>	Web:S1827­")Remove this deprecated "width" attribute.(õÔm
+F	Web:S1827°"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827±")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827±")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827´"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827µ")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+D	Web:S1827µ")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+F	Web:S1827º"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827»")Remove this deprecated "width" attribute.(¨Ú³Å
+?	Web:S1827»")Remove this deprecated "width" attribute.(¨Ú³Å
+F	Web:S1827¾"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¿")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827¿")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Â"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ã")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+D	Web:S1827Ã")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+F	Web:S1827È"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827É")Remove this deprecated "width" attribute.(‘ûÚúÿÿÿÿ
+D	Web:S1827É")Remove this deprecated "width" attribute.(‘ûÚúÿÿÿÿ
+F	Web:S1827Ì"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Í")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827Í")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Ğ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ñ")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+D	Web:S1827Ñ")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+F	Web:S1827Ö"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827×")Remove this deprecated "width" attribute.(±îª øÿÿÿÿ
+D	Web:S1827×")Remove this deprecated "width" attribute.(±îª øÿÿÿÿ
+F	Web:S1827Ú"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Û")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827Û")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Ş"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ß")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+D	Web:S1827ß")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+F	Web:S1827ä"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827å")Remove this deprecated "width" attribute.(¥’¡—
+?	Web:S1827å")Remove this deprecated "width" attribute.(¥’¡—
+F	Web:S1827è"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827é")Remove this deprecated "width" attribute.(İÕŞ¶
+?	Web:S1827é")Remove this deprecated "width" attribute.(İÕŞ¶
+F	Web:S1827ì"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827í")Remove this deprecated "width" attribute.(£œÆ¦
+?	Web:S1827í")Remove this deprecated "width" attribute.(£œÆ¦
+@	Web:S1827ï"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827ó"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ô")Remove this deprecated "width" attribute.(‹±öÚıÿÿÿÿ
+D	Web:S1827ô")Remove this deprecated "width" attribute.(‹±öÚıÿÿÿÿ
+F	Web:S1827÷"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ø")Remove this deprecated "width" attribute.(¥å¸üÿÿÿÿ
+D	Web:S1827ø")Remove this deprecated "width" attribute.(¥å¸üÿÿÿÿ
+F	Web:S1827û"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ü")Remove this deprecated "width" attribute.(‘Âı
+?	Web:S1827ü")Remove this deprecated "width" attribute.(‘Âı
+F	Web:S1827ÿ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827€")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+D	Web:S1827€")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+IWeb:TableWithoutCaptionCheck…" Add a description to this table.(ã‘ƒü
+?	Web:S1827…")Remove this deprecated "width" attribute.(ã‘ƒü
+>	Web:S1827‹"(Remove this deprecated "name" attribute.(Õ’ıÍ
+?	Web:S1827‹")Remove this deprecated "width" attribute.(Õ’ıÍ
+h Web:TableHeaderHasIdOrScopeCheck‹";Add either an 'id' or a 'scope' attribute to this <th> tag.(Õ’ıÍ
+?	Web:S1827‹")Remove this deprecated "width" attribute.(Õ’ıÍ
+h Web:TableHeaderHasIdOrScopeCheck‹";Add either an 'id' or a 'scope' attribute to this <th> tag.(Õ’ıÍ
+F	Web:S1827‘"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827’")Remove this deprecated "width" attribute.(®ŠóÄ
+?	Web:S1827’")Remove this deprecated "width" attribute.(®ŠóÄ
+@	Web:S1827”"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827š"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827›")Remove this deprecated "width" attribute.(§ñ‹Õ
+?	Web:S1827›")Remove this deprecated "width" attribute.(§ñ‹Õ
+F	Web:S1827"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ÿ")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827Ÿ")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827¢"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827£")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+D	Web:S1827£")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+F	Web:S1827¨"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827©")Remove this deprecated "width" attribute.(÷”ªù
+?	Web:S1827©")Remove this deprecated "width" attribute.(÷”ªù
+F	Web:S1827¬"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827­")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827­")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827°"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827±")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+D	Web:S1827±")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+F	Web:S1827¶"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827·")Remove this deprecated "width" attribute.(ŸÁÔÕúÿÿÿÿ
+D	Web:S1827·")Remove this deprecated "width" attribute.(ŸÁÔÕúÿÿÿÿ
+F	Web:S1827º"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827»")Remove this deprecated "width" attribute.(›ÍÎ¶øÿÿÿÿ
+D	Web:S1827»")Remove this deprecated "width" attribute.(›ÍÎ¶øÿÿÿÿ
+F	Web:S1827¾"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827¿")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+D	Web:S1827¿")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+F	Web:S1827Ä"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Å")Remove this deprecated "width" attribute.(¨½ÌĞÿÿÿÿÿ
+D	Web:S1827Å")Remove this deprecated "width" attribute.(¨½ÌĞÿÿÿÿÿ
+F	Web:S1827È"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827É")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827É")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Ì"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Í")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+D	Web:S1827Í")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+F	Web:S1827Ò"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ó")Remove this deprecated "width" attribute.(ÇÄš÷
+?	Web:S1827Ó")Remove this deprecated "width" attribute.(ÇÄš÷
+F	Web:S1827Ö"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827×")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827×")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Ú"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Û")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+D	Web:S1827Û")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+F	Web:S1827à"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827á")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827á")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827ä"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827å")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827å")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827è"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827é")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+D	Web:S1827é")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+F	Web:S1827î"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ï")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827ï")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827ò"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ó")Remove this deprecated "width" attribute.(›ÍÎ¶øÿÿÿÿ
+D	Web:S1827ó")Remove this deprecated "width" attribute.(›ÍÎ¶øÿÿÿÿ
+F	Web:S1827ö"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827÷")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+D	Web:S1827÷")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+F	Web:S1827ü"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ı")Remove this deprecated "width" attribute.(ıû‰úÿÿÿÿ
+D	Web:S1827ı")Remove this deprecated "width" attribute.(ıû‰úÿÿÿÿ
+F	Web:S1827€"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827„"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827…")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+D	Web:S1827…")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+F	Web:S1827Š"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827‹")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827‹")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827")Remove this deprecated "width" attribute.(µóŸ·
+?	Web:S1827")Remove this deprecated "width" attribute.(µóŸ·
+F	Web:S1827’"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827“")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+D	Web:S1827“")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+F	Web:S1827˜"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827™")Remove this deprecated "width" attribute.(ŸÁÔÕúÿÿÿÿ
+D	Web:S1827™")Remove this deprecated "width" attribute.(ŸÁÔÕúÿÿÿÿ
+F	Web:S1827œ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827")Remove this deprecated "width" attribute.(µóŸ·
+?	Web:S1827")Remove this deprecated "width" attribute.(µóŸ·
+F	Web:S1827 "+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827¡")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+D	Web:S1827¡")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+F	Web:S1827¦"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827§")Remove this deprecated "width" attribute.(Şÿø®ıÿÿÿÿ
+D	Web:S1827§")Remove this deprecated "width" attribute.(Şÿø®ıÿÿÿÿ
+F	Web:S1827ª"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827«")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827«")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827®"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827¯")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+D	Web:S1827¯")Remove this deprecated "width" attribute.(„²„Åùÿÿÿÿ
+F	Web:S1827´"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827µ")Remove this deprecated "width" attribute.(†ĞŠ˜
+?	Web:S1827µ")Remove this deprecated "width" attribute.(†ĞŠ˜
+F	Web:S1827¸"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¹")Remove this deprecated "width" attribute.(İÕŞ¶
+?	Web:S1827¹")Remove this deprecated "width" attribute.(İÕŞ¶
+F	Web:S1827¼"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827½")Remove this deprecated "width" attribute.(£œÆ¦
+?	Web:S1827½")Remove this deprecated "width" attribute.(£œÆ¦
+@	Web:S1827¿"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827Ã"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ä")Remove this deprecated "width" attribute.(‹±öÚıÿÿÿÿ
+D	Web:S1827Ä")Remove this deprecated "width" attribute.(‹±öÚıÿÿÿÿ
+F	Web:S1827Ç"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827È")Remove this deprecated "width" attribute.(¥å¸üÿÿÿÿ
+D	Web:S1827È")Remove this deprecated "width" attribute.(¥å¸üÿÿÿÿ
+F	Web:S1827Ë"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ì")Remove this deprecated "width" attribute.(‘Âı
+?	Web:S1827Ì")Remove this deprecated "width" attribute.(‘Âı
+F	Web:S1827Ï"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ğ")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+D	Web:S1827Ğ")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+IWeb:TableWithoutCaptionCheckÕ" Add a description to this table.(ã‘ƒü
+?	Web:S1827Õ")Remove this deprecated "width" attribute.(ã‘ƒü
+?	Web:S1827Û")Remove this deprecated "width" attribute.(­û
+h Web:TableHeaderHasIdOrScopeCheckÛ";Add either an 'id' or a 'scope' attribute to this <th> tag.(­û
+>	Web:S1827Û"(Remove this deprecated "name" attribute.(­û
+?	Web:S1827Û")Remove this deprecated "width" attribute.(­û
+h Web:TableHeaderHasIdOrScopeCheckÛ";Add either an 'id' or a 'scope' attribute to this <th> tag.(­û
+F	Web:S1827á"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827â")Remove this deprecated "width" attribute.(ÿ¯üÎ
+?	Web:S1827â")Remove this deprecated "width" attribute.(ÿ¯üÎ
+@	Web:S1827ä"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827ê"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+>	Web:S1827ë")Remove this deprecated "width" attribute.(õÔm
+>	Web:S1827ë")Remove this deprecated "width" attribute.(õÔm
+F	Web:S1827î"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ï")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827ï")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827ô"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827õ")Remove this deprecated "width" attribute.(ùçÓÿÿÿÿÿ
+D	Web:S1827õ")Remove this deprecated "width" attribute.(ùçÓÿÿÿÿÿ
+F	Web:S1827ø"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ù")Remove this deprecated "width" attribute.(˜•Áé
+?	Web:S1827ù")Remove this deprecated "width" attribute.(˜•Áé
+F	Web:S1827ü"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ı")Remove this deprecated "width" attribute.(š‡œúÿÿÿÿ
+D	Web:S1827ı")Remove this deprecated "width" attribute.(š‡œúÿÿÿÿ
+@	Web:S1827ÿ"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827ƒ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827„")Remove this deprecated "width" attribute.(óÃÏ†ıÿÿÿÿ
+D	Web:S1827„")Remove this deprecated "width" attribute.(óÃÏ†ıÿÿÿÿ
+F	Web:S1827‡"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ˆ")Remove this deprecated "width" attribute.(†·ï„øÿÿÿÿ
+D	Web:S1827ˆ")Remove this deprecated "width" attribute.(†·ï„øÿÿÿÿ
+F	Web:S1827‹"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Œ")Remove this deprecated "width" attribute.(ÛÁÔş
+?	Web:S1827Œ")Remove this deprecated "width" attribute.(ÛÁÔş
+F	Web:S1827"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+D	Web:S1827")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+IWeb:TableWithoutCaptionCheck•" Add a description to this table.(ã‘ƒü
+?	Web:S1827•")Remove this deprecated "width" attribute.(ã‘ƒü
+D	Web:S1827›")Remove this deprecated "width" attribute.(°‚´Æûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheck›";Add either an 'id' or a 'scope' attribute to this <th> tag.(°‚´Æûÿÿÿÿ
+C	Web:S1827›"(Remove this deprecated "name" attribute.(°‚´Æûÿÿÿÿ
+D	Web:S1827›")Remove this deprecated "width" attribute.(°‚´Æûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheck›";Add either an 'id' or a 'scope' attribute to this <th> tag.(°‚´Æûÿÿÿÿ
+F	Web:S1827¡"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¢")Remove this deprecated "width" attribute.(ÿ¯üÎ
+?	Web:S1827¢")Remove this deprecated "width" attribute.(ÿ¯üÎ
+@	Web:S1827¤"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827ª"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827«")Remove this deprecated "width" attribute.(±îª øÿÿÿÿ
+D	Web:S1827«")Remove this deprecated "width" attribute.(±îª øÿÿÿÿ
+F	Web:S1827®"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¯")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827¯")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827´"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827µ")Remove this deprecated "width" attribute.(«™ø¸şÿÿÿÿ
+D	Web:S1827µ")Remove this deprecated "width" attribute.(«™ø¸şÿÿÿÿ
+F	Web:S1827¸"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¹")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827¹")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827¾"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827¿")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827¿")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827Â"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ã")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827Ã")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827È"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827É")Remove this deprecated "width" attribute.(€¬ÿ»ÿÿÿÿÿ
+D	Web:S1827É")Remove this deprecated "width" attribute.(€¬ÿ»ÿÿÿÿÿ
+F	Web:S1827Ì"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Í")Remove this deprecated "width" attribute.(˜•Áé
+?	Web:S1827Í")Remove this deprecated "width" attribute.(˜•Áé
+F	Web:S1827Ğ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ñ")Remove this deprecated "width" attribute.(Æ‚†Š
+?	Web:S1827Ñ")Remove this deprecated "width" attribute.(Æ‚†Š
+@	Web:S1827Ó"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827×"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ø")Remove this deprecated "width" attribute.(óÃÏ†ıÿÿÿÿ
+D	Web:S1827Ø")Remove this deprecated "width" attribute.(óÃÏ†ıÿÿÿÿ
+F	Web:S1827Û"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ü")Remove this deprecated "width" attribute.(†·ï„øÿÿÿÿ
+D	Web:S1827Ü")Remove this deprecated "width" attribute.(†·ï„øÿÿÿÿ
+F	Web:S1827ß"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827à")Remove this deprecated "width" attribute.(ÛÁÔş
+?	Web:S1827à")Remove this deprecated "width" attribute.(ÛÁÔş
+F	Web:S1827ã"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ä")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+D	Web:S1827ä")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+IWeb:TableWithoutCaptionChecké" Add a description to this table.(ã‘ƒü
+?	Web:S1827é")Remove this deprecated "width" attribute.(ã‘ƒü
+?	Web:S1827ï")Remove this deprecated "width" attribute.(ª…™ª
+h Web:TableHeaderHasIdOrScopeCheckï";Add either an 'id' or a 'scope' attribute to this <th> tag.(ª…™ª
+>	Web:S1827ï"(Remove this deprecated "name" attribute.(ª…™ª
+?	Web:S1827ï")Remove this deprecated "width" attribute.(ª…™ª
+h Web:TableHeaderHasIdOrScopeCheckï";Add either an 'id' or a 'scope' attribute to this <th> tag.(ª…™ª
+F	Web:S1827õ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ö")Remove this deprecated "width" attribute.(ÿèí
+?	Web:S1827ö")Remove this deprecated "width" attribute.(ÿèí
+@	Web:S1827ø"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827ş"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ÿ")Remove this deprecated "width" attribute.(­­÷
+?	Web:S1827ÿ")Remove this deprecated "width" attribute.(­­÷
+F	Web:S1827‚	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ƒ	")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827ƒ	")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827†	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827‡	")Remove this deprecated "width" attribute.(±íŸ
+?	Web:S1827‡	")Remove this deprecated "width" attribute.(±íŸ
+F	Web:S1827Œ	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827	")Remove this deprecated "width" attribute.(ùçÓÿÿÿÿÿ
+D	Web:S1827	")Remove this deprecated "width" attribute.(ùçÓÿÿÿÿÿ
+F	Web:S1827	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827‘	")Remove this deprecated "width" attribute.(öçøÍ
+?	Web:S1827‘	")Remove this deprecated "width" attribute.(öçøÍ
+F	Web:S1827”	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827•	")Remove this deprecated "width" attribute.(ÁÓ¢ìûÿÿÿÿ
+D	Web:S1827•	")Remove this deprecated "width" attribute.(ÁÓ¢ìûÿÿÿÿ
+@	Web:S1827—	"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827›	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827œ	")Remove this deprecated "width" attribute.(£““øÿÿÿÿ
+D	Web:S1827œ	")Remove this deprecated "width" attribute.(£““øÿÿÿÿ
+F	Web:S1827Ÿ	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827 	")Remove this deprecated "width" attribute.(†·ï„øÿÿÿÿ
+D	Web:S1827 	")Remove this deprecated "width" attribute.(†·ï„øÿÿÿÿ
+F	Web:S1827£	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¤	")Remove this deprecated "width" attribute.(ÛÁÔş
+?	Web:S1827¤	")Remove this deprecated "width" attribute.(ÛÁÔş
+F	Web:S1827§	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827¨	")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+D	Web:S1827¨	")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+IWeb:TableWithoutCaptionCheck­	" Add a description to this table.(ã‘ƒü
+?	Web:S1827­	")Remove this deprecated "width" attribute.(ã‘ƒü
+?	Web:S1827³	")Remove this deprecated "width" attribute.(ª…™ª
+h Web:TableHeaderHasIdOrScopeCheck³	";Add either an 'id' or a 'scope' attribute to this <th> tag.(ª…™ª
+>	Web:S1827³	"(Remove this deprecated "name" attribute.(ª…™ª
+?	Web:S1827³	")Remove this deprecated "width" attribute.(ª…™ª
+h Web:TableHeaderHasIdOrScopeCheck³	";Add either an 'id' or a 'scope' attribute to this <th> tag.(ª…™ª
+F	Web:S1827¹	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827º	")Remove this deprecated "width" attribute.(ÿèí
+?	Web:S1827º	")Remove this deprecated "width" attribute.(ÿèí
+@	Web:S1827¼	"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827Â	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ã	")Remove this deprecated "width" attribute.(Û¸ºì
+?	Web:S1827Ã	")Remove this deprecated "width" attribute.(Û¸ºì
+F	Web:S1827Æ	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ç	")Remove this deprecated "width" attribute.(µóŸ·
+?	Web:S1827Ç	")Remove this deprecated "width" attribute.(µóŸ·
+F	Web:S1827Ê	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ë	")Remove this deprecated "width" attribute.(ÕôÕß
+?	Web:S1827Ë	")Remove this deprecated "width" attribute.(ÕôÕß
+F	Web:S1827Ğ	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ñ	")Remove this deprecated "width" attribute.(Û¸ºì
+?	Web:S1827Ñ	")Remove this deprecated "width" attribute.(Û¸ºì
+F	Web:S1827Ô	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Õ	")Remove this deprecated "width" attribute.(µóŸ·
+?	Web:S1827Õ	")Remove this deprecated "width" attribute.(µóŸ·
+F	Web:S1827Ø	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ù	")Remove this deprecated "width" attribute.(”Ù”µıÿÿÿÿ
+D	Web:S1827Ù	")Remove this deprecated "width" attribute.(”Ù”µıÿÿÿÿ
+F	Web:S1827Ş	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ß	")Remove this deprecated "width" attribute.(Û¸ºì
+?	Web:S1827ß	")Remove this deprecated "width" attribute.(Û¸ºì
+F	Web:S1827â	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ã	")Remove this deprecated "width" attribute.(µóŸ·
+?	Web:S1827ã	")Remove this deprecated "width" attribute.(µóŸ·
+F	Web:S1827æ	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ç	")Remove this deprecated "width" attribute.(ÎÃ¼İÿÿÿÿÿ
+D	Web:S1827ç	")Remove this deprecated "width" attribute.(ÎÃ¼İÿÿÿÿÿ
+F	Web:S1827ì	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827í	")Remove this deprecated "width" attribute.(Û¸ºì
+?	Web:S1827í	")Remove this deprecated "width" attribute.(Û¸ºì
+F	Web:S1827ğ	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ñ	")Remove this deprecated "width" attribute.(µóŸ·
+?	Web:S1827ñ	")Remove this deprecated "width" attribute.(µóŸ·
+F	Web:S1827ô	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827õ	")Remove this deprecated "width" attribute.(½Î„šúÿÿÿÿ
+D	Web:S1827õ	")Remove this deprecated "width" attribute.(½Î„šúÿÿÿÿ
+F	Web:S1827ú	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827û	")Remove this deprecated "width" attribute.(©éÀ‚ùÿÿÿÿ
+D	Web:S1827û	")Remove this deprecated "width" attribute.(©éÀ‚ùÿÿÿÿ
+F	Web:S1827ş	"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ÿ	")Remove this deprecated "width" attribute.(öçøÍ
+?	Web:S1827ÿ	")Remove this deprecated "width" attribute.(öçøÍ
+F	Web:S1827‚
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+>	Web:S1827ƒ
+")Remove this deprecated "width" attribute.(×‹ï
+>	Web:S1827ƒ
+")Remove this deprecated "width" attribute.(×‹ï
+@	Web:S1827…
+"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827‰
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Š
+")Remove this deprecated "width" attribute.(£““øÿÿÿÿ
+D	Web:S1827Š
+")Remove this deprecated "width" attribute.(£““øÿÿÿÿ
+F	Web:S1827
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827
+")Remove this deprecated "width" attribute.(†·ï„øÿÿÿÿ
+D	Web:S1827
+")Remove this deprecated "width" attribute.(†·ï„øÿÿÿÿ
+F	Web:S1827‘
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827’
+")Remove this deprecated "width" attribute.(ÛÁÔş
+?	Web:S1827’
+")Remove this deprecated "width" attribute.(ÛÁÔş
+F	Web:S1827•
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827–
+")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+D	Web:S1827–
+")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+IWeb:TableWithoutCaptionCheck›
+" Add a description to this table.(ã‘ƒü
+?	Web:S1827›
+")Remove this deprecated "width" attribute.(ã‘ƒü
+?	Web:S1827¡
+")Remove this deprecated "width" attribute.(ª…™ª
+h Web:TableHeaderHasIdOrScopeCheck¡
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(ª…™ª
+>	Web:S1827¡
+"(Remove this deprecated "name" attribute.(ª…™ª
+?	Web:S1827¡
+")Remove this deprecated "width" attribute.(ª…™ª
+h Web:TableHeaderHasIdOrScopeCheck¡
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(ª…™ª
+F	Web:S1827§
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¨
+")Remove this deprecated "width" attribute.(ÿèí
+?	Web:S1827¨
+")Remove this deprecated "width" attribute.(ÿèí
+@	Web:S1827ª
+"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827°
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827±
+")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827±
+")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827´
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827µ
+")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827µ
+")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827¸
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827¹
+")Remove this deprecated "width" attribute.(´Ğşúşÿÿÿÿ
+D	Web:S1827¹
+")Remove this deprecated "width" attribute.(´Ğşúşÿÿÿÿ
+F	Web:S1827¾
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827¿
+")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827¿
+")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827Â
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ã
+")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827Ã
+")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Æ
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ç
+")Remove this deprecated "width" attribute.(ªÚØìşÿÿÿÿ
+D	Web:S1827Ç
+")Remove this deprecated "width" attribute.(ªÚØìşÿÿÿÿ
+F	Web:S1827Ì
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Í
+")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827Í
+")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827Ğ
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ñ
+")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827Ñ
+")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Ô
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Õ
+")Remove this deprecated "width" attribute.(Úş·Ä
+?	Web:S1827Õ
+")Remove this deprecated "width" attribute.(Úş·Ä
+F	Web:S1827Ú
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Û
+")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827Û
+")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827Ş
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ß
+")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827ß
+")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827â
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ã
+")Remove this deprecated "width" attribute.(…¨ÜÑıÿÿÿÿ
+D	Web:S1827ã
+")Remove this deprecated "width" attribute.(…¨ÜÑıÿÿÿÿ
+F	Web:S1827è
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827é
+")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827é
+")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827ì
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827í
+")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827í
+")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827ğ
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+>	Web:S1827ñ
+")Remove this deprecated "width" attribute.(á£ü
+>	Web:S1827ñ
+")Remove this deprecated "width" attribute.(á£ü
+F	Web:S1827ö
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827÷
+")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827÷
+")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827ú
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827û
+")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827û
+")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827ş
+"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ÿ
+")Remove this deprecated "width" attribute.(ö¹×ùÿÿÿÿ
+D	Web:S1827ÿ
+")Remove this deprecated "width" attribute.(ö¹×ùÿÿÿÿ
+F	Web:S1827„"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827…")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827…")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827ˆ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827‰")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827‰")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Œ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827")Remove this deprecated "width" attribute.(ÅŒ¯È
+?	Web:S1827")Remove this deprecated "width" attribute.(ÅŒ¯È
+F	Web:S1827’"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827“")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827“")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827–"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827—")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827—")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827š"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827›")Remove this deprecated "width" attribute.(ëÖºé
+?	Web:S1827›")Remove this deprecated "width" attribute.(ëÖºé
+F	Web:S1827 "+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827¡")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827¡")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827¤"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¥")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827¥")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827¨"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827©")Remove this deprecated "width" attribute.(¬–¯Ò
+?	Web:S1827©")Remove this deprecated "width" attribute.(¬–¯Ò
+F	Web:S1827®"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827¯")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827¯")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827²"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827³")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827³")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827¶"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827·")Remove this deprecated "width" attribute.(ôş²üÿÿÿÿ
+D	Web:S1827·")Remove this deprecated "width" attribute.(ôş²üÿÿÿÿ
+F	Web:S1827¼"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827½")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827½")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827À"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Á")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827Á")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Ä"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Å")Remove this deprecated "width" attribute.(³éÂ
+?	Web:S1827Å")Remove this deprecated "width" attribute.(³éÂ
+F	Web:S1827Ê"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ë")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827Ë")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827Î"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ï")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827Ï")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Ò"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ó")Remove this deprecated "width" attribute.(„§Óôûÿÿÿÿ
+D	Web:S1827Ó")Remove this deprecated "width" attribute.(„§Óôûÿÿÿÿ
+F	Web:S1827Ø"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ù")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827Ù")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827Ü"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827İ")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827İ")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827à"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827á")Remove this deprecated "width" attribute.(õ¤¶³
+?	Web:S1827á")Remove this deprecated "width" attribute.(õ¤¶³
+F	Web:S1827æ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ç")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827ç")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827ê"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ë")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827ë")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827î"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ï")Remove this deprecated "width" attribute.(ƒšÓ¯
+?	Web:S1827ï")Remove this deprecated "width" attribute.(ƒšÓ¯
+F	Web:S1827ô"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827õ")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827õ")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827ø"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ù")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827ù")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827ü"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ı")Remove this deprecated "width" attribute.(ê¡”Áüÿÿÿÿ
+D	Web:S1827ı")Remove this deprecated "width" attribute.(ê¡”Áüÿÿÿÿ
+F	Web:S1827‚"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ƒ")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827ƒ")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827†"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827‡")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827‡")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Š"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827‹")Remove this deprecated "width" attribute.(üÕ²Ì
+?	Web:S1827‹")Remove this deprecated "width" attribute.(üÕ²Ì
+F	Web:S1827"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827‘")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827‘")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827”"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827•")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827•")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827˜"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+>	Web:S1827™")Remove this deprecated "width" attribute.(ŞÍ
+>	Web:S1827™")Remove this deprecated "width" attribute.(ŞÍ
+F	Web:S1827"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ÿ")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827Ÿ")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827¢"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827£")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827£")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827¦"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827§")Remove this deprecated "width" attribute.(êûÍşÿÿÿÿ
+D	Web:S1827§")Remove this deprecated "width" attribute.(êûÍşÿÿÿÿ
+F	Web:S1827¬"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827­")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827­")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827°"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827±")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827±")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827´"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827µ")Remove this deprecated "width" attribute.(‹ØÙ¯üÿÿÿÿ
+D	Web:S1827µ")Remove this deprecated "width" attribute.(‹ØÙ¯üÿÿÿÿ
+F	Web:S1827º"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827»")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+D	Web:S1827»")Remove this deprecated "width" attribute.(˜úŞôıÿÿÿÿ
+F	Web:S1827¾"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¿")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827¿")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Â"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ã")Remove this deprecated "width" attribute.(ÏøèŸ
+?	Web:S1827Ã")Remove this deprecated "width" attribute.(ÏøèŸ
+F	Web:S1827È"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827É")Remove this deprecated "width" attribute.(şÅĞ©
+?	Web:S1827É")Remove this deprecated "width" attribute.(şÅĞ©
+F	Web:S1827Ì"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Í")Remove this deprecated "width" attribute.(öçøÍ
+?	Web:S1827Í")Remove this deprecated "width" attribute.(öçøÍ
+F	Web:S1827Ğ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ñ")Remove this deprecated "width" attribute.(í¹ÿ
+?	Web:S1827Ñ")Remove this deprecated "width" attribute.(í¹ÿ
+@	Web:S1827Ó"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827×"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ø")Remove this deprecated "width" attribute.(£““øÿÿÿÿ
+D	Web:S1827Ø")Remove this deprecated "width" attribute.(£““øÿÿÿÿ
+F	Web:S1827Û"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ü")Remove this deprecated "width" attribute.(†·ï„øÿÿÿÿ
+D	Web:S1827Ü")Remove this deprecated "width" attribute.(†·ï„øÿÿÿÿ
+F	Web:S1827ß"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827à")Remove this deprecated "width" attribute.(ÛÁÔş
+?	Web:S1827à")Remove this deprecated "width" attribute.(ÛÁÔş
+F	Web:S1827ã"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ä")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+D	Web:S1827ä")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+IWeb:TableWithoutCaptionChecké" Add a description to this table.(ã‘ƒü
+?	Web:S1827é")Remove this deprecated "width" attribute.(ã‘ƒü
+?	Web:S1827ï")Remove this deprecated "width" attribute.(ª…™ª
+h Web:TableHeaderHasIdOrScopeCheckï";Add either an 'id' or a 'scope' attribute to this <th> tag.(ª…™ª
+>	Web:S1827ï"(Remove this deprecated "name" attribute.(ª…™ª
+?	Web:S1827ï")Remove this deprecated "width" attribute.(ª…™ª
+h Web:TableHeaderHasIdOrScopeCheckï";Add either an 'id' or a 'scope' attribute to this <th> tag.(ª…™ª
+F	Web:S1827õ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ö")Remove this deprecated "width" attribute.(ÿèí
+?	Web:S1827ö")Remove this deprecated "width" attribute.(ÿèí
+@	Web:S1827ø"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827ş"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ÿ")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827ÿ")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827‚"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ƒ")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827ƒ")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827†"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827‡")Remove this deprecated "width" attribute.(ïå„
+?	Web:S1827‡")Remove this deprecated "width" attribute.(ïå„
+F	Web:S1827Œ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827‘")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827‘")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827”"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827•")Remove this deprecated "width" attribute.(™“æˆüÿÿÿÿ
+D	Web:S1827•")Remove this deprecated "width" attribute.(™“æˆüÿÿÿÿ
+F	Web:S1827š"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827›")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827›")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ÿ")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827Ÿ")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827¢"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827£")Remove this deprecated "width" attribute.(ÛıÁ»
+?	Web:S1827£")Remove this deprecated "width" attribute.(ÛıÁ»
+F	Web:S1827¨"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827©")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827©")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827¬"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827­")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827­")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827°"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827±")Remove this deprecated "width" attribute.(Ğö§
+?	Web:S1827±")Remove this deprecated "width" attribute.(Ğö§
+F	Web:S1827¶"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827·")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827·")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827º"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827»")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827»")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827¾"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¿")Remove this deprecated "width" attribute.(–æ’‹
+?	Web:S1827¿")Remove this deprecated "width" attribute.(–æ’‹
+F	Web:S1827Ä"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Å")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827Å")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827È"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827É")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827É")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Ì"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Í")Remove this deprecated "width" attribute.(Ãÿ¦şÿÿÿÿ
+D	Web:S1827Í")Remove this deprecated "width" attribute.(Ãÿ¦şÿÿÿÿ
+F	Web:S1827Ò"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ó")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827Ó")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827Ö"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827×")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827×")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Ú"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Û")Remove this deprecated "width" attribute.(ßÏÌè
+?	Web:S1827Û")Remove this deprecated "width" attribute.(ßÏÌè
+F	Web:S1827à"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827á")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827á")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827ä"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827å")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827å")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827è"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827é")Remove this deprecated "width" attribute.(Ş¸Œ“
+?	Web:S1827é")Remove this deprecated "width" attribute.(Ş¸Œ“
+F	Web:S1827î"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ï")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827ï")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827ò"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ó")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827ó")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827ö"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827÷")Remove this deprecated "width" attribute.(ˆ·
+?	Web:S1827÷")Remove this deprecated "width" attribute.(ˆ·
+F	Web:S1827ü"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ı")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827ı")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827€"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827„"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827…")Remove this deprecated "width" attribute.(ãªÜ¸
+?	Web:S1827…")Remove this deprecated "width" attribute.(ãªÜ¸
+F	Web:S1827Š"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827‹")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827‹")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827’"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827“")Remove this deprecated "width" attribute.(âÇ÷ä
+?	Web:S1827“")Remove this deprecated "width" attribute.(âÇ÷ä
+F	Web:S1827˜"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827™")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827™")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827œ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827 "+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827¡")Remove this deprecated "width" attribute.(¾¸—Åşÿÿÿÿ
+D	Web:S1827¡")Remove this deprecated "width" attribute.(¾¸—Åşÿÿÿÿ
+F	Web:S1827¦"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827§")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827§")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827ª"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827«")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827«")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827®"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+>	Web:S1827¯")Remove this deprecated "width" attribute.(«“ˆU
+>	Web:S1827¯")Remove this deprecated "width" attribute.(«“ˆU
+F	Web:S1827´"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827µ")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827µ")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827¸"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827¹")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827¹")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827¼"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827½")Remove this deprecated "width" attribute.(¶’øÀûÿÿÿÿ
+D	Web:S1827½")Remove this deprecated "width" attribute.(¶’øÀûÿÿÿÿ
+F	Web:S1827Â"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ã")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827Ã")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827Æ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Ç")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827Ç")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Ê"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ë")Remove this deprecated "width" attribute.(ƒì­ùşÿÿÿÿ
+D	Web:S1827Ë")Remove this deprecated "width" attribute.(ƒì­ùşÿÿÿÿ
+F	Web:S1827Ğ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ñ")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827Ñ")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827Ô"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827Õ")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827Õ")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827Ø"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ù")Remove this deprecated "width" attribute.(¾Ïî¯ûÿÿÿÿ
+D	Web:S1827Ù")Remove this deprecated "width" attribute.(¾Ïî¯ûÿÿÿÿ
+F	Web:S1827Ş"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ß")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827ß")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827â"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ã")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827ã")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827æ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ç")Remove this deprecated "width" attribute.(ÁàšÍûÿÿÿÿ
+D	Web:S1827ç")Remove this deprecated "width" attribute.(ÁàšÍûÿÿÿÿ
+F	Web:S1827ì"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827í")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827í")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827ğ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ñ")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827ñ")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827ô"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827õ")Remove this deprecated "width" attribute.(¦Ø÷ïÿÿÿÿÿ
+D	Web:S1827õ")Remove this deprecated "width" attribute.(¦Ø÷ïÿÿÿÿÿ
+F	Web:S1827ú"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827û")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827û")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827ş"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827ÿ")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827ÿ")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827‚"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+>	Web:S1827ƒ")Remove this deprecated "width" attribute.(¢¥
+>	Web:S1827ƒ")Remove this deprecated "width" attribute.(¢¥
+F	Web:S1827ˆ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827‰")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+D	Web:S1827‰")Remove this deprecated "width" attribute.(ş¤ô½üÿÿÿÿ
+F	Web:S1827Œ"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827")Remove this deprecated "width" attribute.(–˜ÓÕ
+?	Web:S1827")Remove this deprecated "width" attribute.(–˜ÓÕ
+F	Web:S1827"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827‘")Remove this deprecated "width" attribute.(İ’¶ä
+?	Web:S1827‘")Remove this deprecated "width" attribute.(İ’¶ä
+F	Web:S1827–"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827—")Remove this deprecated "width" attribute.(¶–È›øÿÿÿÿ
+D	Web:S1827—")Remove this deprecated "width" attribute.(¶–È›øÿÿÿÿ
+F	Web:S1827š"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827›")Remove this deprecated "width" attribute.(öçøÍ
+?	Web:S1827›")Remove this deprecated "width" attribute.(öçøÍ
+F	Web:S1827"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827Ÿ")Remove this deprecated "width" attribute.(Äºøùÿÿÿÿ
+D	Web:S1827Ÿ")Remove this deprecated "width" attribute.(Äºøùÿÿÿÿ
+@	Web:S1827¡"*Remove this deprecated "vAlign" attribute.(õî•š
+F	Web:S1827¥"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827¦")Remove this deprecated "width" attribute.(£““øÿÿÿÿ
+D	Web:S1827¦")Remove this deprecated "width" attribute.(£““øÿÿÿÿ
+F	Web:S1827©"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827ª")Remove this deprecated "width" attribute.(†·ï„øÿÿÿÿ
+D	Web:S1827ª")Remove this deprecated "width" attribute.(†·ï„øÿÿÿÿ
+F	Web:S1827­"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+?	Web:S1827®")Remove this deprecated "width" attribute.(ÛÁÔş
+?	Web:S1827®")Remove this deprecated "width" attribute.(ÛÁÔş
+F	Web:S1827±"+Remove this deprecated "bgcolor" attribute.(‡Êóªşÿÿÿÿ
+D	Web:S1827²")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ
+D	Web:S1827²")Remove this deprecated "width" attribute.(†ö¹¤şÿÿÿÿ

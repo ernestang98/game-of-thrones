@@ -1,0 +1,13 @@
+FROM python:3.8
+ENV MAIL_USERNAME=
+ENV MAIL_PASSWORD=
+ENV MAIL_FROM=
+ENV MAIL_PORT=
+ENV MAIL_SERVER=
+ENV MAIL_FROM_NAME=
+ADD admin_ui /admin_ui/
+ADD okteto-stack.yaml /admin_ui/src/okteto-stack.yaml
+RUN pip install -r /admin_ui/src/requirements.txt
+EXPOSE 8080
+WORKDIR /admin_ui/src/
+CMD ["uvicorn", "main:app", "--reload", "--port", "8080", "--host", "0.0.0.0"]

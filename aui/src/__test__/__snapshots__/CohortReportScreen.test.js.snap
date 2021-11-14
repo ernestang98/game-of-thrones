@@ -1,0 +1,210 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cohort Report Screen render success 1`] = `
+<ForwardRef(Box)
+  sx={
+    Object {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "my": 5,
+    }
+  }
+>
+  <ForwardRef(Stack)
+    alignItems="center"
+    justifyContent="center"
+    spacing={5}
+  >
+    <ForwardRef(Fab)
+      color="primary"
+      component={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "propTypes": Object {
+            "innerRef": [Function],
+            "onClick": [Function],
+            "replace": [Function],
+            "target": [Function],
+            "to": [Function],
+          },
+          "render": [Function],
+        }
+      }
+      id="indiv-link"
+      to="/indiv-report"
+      variant="extended"
+    >
+      <Memo(ForwardRef(NavigationIcon))
+        sx={
+          Object {
+            "mr": 1,
+          }
+        }
+      />
+      Individual Student Report
+    </ForwardRef(Fab)>
+    <ForwardRef(Typography)
+      align="center"
+      variant="h3"
+    >
+      Cohort Report
+    </ForwardRef(Typography)>
+    <ForwardRef(Box)
+      sx={
+        Object {
+          "width": 300,
+        }
+      }
+    >
+      <ForwardRef(Box)
+        sx={
+          Object {
+            "bgcolor": "background.paper",
+            "maxWidth": 360,
+            "width": "100%",
+          }
+        }
+      >
+        <ForwardRef(List)>
+          <ForwardRef(ListItem)>
+            <ForwardRef(ListItemIcon)>
+              <Memo(ForwardRef(LocalFireDepartmentIcon)) />
+            </ForwardRef(ListItemIcon)>
+            <ForwardRef(ListItemText)>
+              Best Performing Student: 
+            </ForwardRef(ListItemText)>
+          </ForwardRef(ListItem)>
+          <ForwardRef(ListItem)>
+            <ForwardRef(ListItemIcon)>
+              <Memo(ForwardRef(OneKPlusIcon)) />
+            </ForwardRef(ListItemIcon)>
+            <ForwardRef(ListItemText)>
+              Total Points Earned: 
+              0
+            </ForwardRef(ListItemText)>
+          </ForwardRef(ListItem)>
+        </ForwardRef(List)>
+      </ForwardRef(Box)>
+    </ForwardRef(Box)>
+    <ForwardRef(Box)
+      sx={
+        Object {
+          "height": 300,
+          "width": "100%",
+        }
+      }
+    >
+      <Table
+        columns={
+          Array [
+            Object {
+              "field": "name",
+              "title": "Name",
+            },
+            Object {
+              "field": "rank",
+              "title": "Rank",
+              "type": "numeric",
+            },
+            Object {
+              "field": "position",
+              "title": "Position",
+              "type": "numeric",
+            },
+            Object {
+              "field": "points_earned",
+              "title": "Points Earned",
+              "type": "numeric",
+            },
+            Object {
+              "field": "percentage_correct",
+              "title": "Percentage Correct",
+              "type": "numeric",
+            },
+          ]
+        }
+        data={Array []}
+        icons={
+          Object {
+            "Add": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            },
+            "Check": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            },
+            "Clear": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            },
+            "Delete": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            },
+            "DetailPanel": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            },
+            "Edit": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            },
+            "Export": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            },
+            "Filter": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            },
+            "FirstPage": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            },
+            "LastPage": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            },
+            "NextPage": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            },
+            "PreviousPage": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            },
+            "ResetSearch": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            },
+            "Search": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            },
+            "SortArrow": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            },
+            "ThirdStateCheck": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            },
+            "ViewColumn": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            },
+          }
+        }
+        options={
+          Object {
+            "filtering": true,
+          }
+        }
+        title="Report"
+      />
+    </ForwardRef(Box)>
+  </ForwardRef(Stack)>
+</ForwardRef(Box)>
+`;

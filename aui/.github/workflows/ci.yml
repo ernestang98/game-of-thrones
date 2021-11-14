@@ -1,0 +1,43 @@
+name: GOT AUI CI Pipeline
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  jest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install modules
+        run: yarn
+      - name: Run tests
+        run: yarn yarn-test
+      - name: 'Upload Artifact'
+        uses: actions/upload-artifact@v2
+        with:
+          name: "Jest Report"
+          path: ./report.html
+  staging:
+    needs: [jest]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to Netlify
+        run: echo deploying to Netlify...
+  sec_test:
+    needs: [staging]
+    runs-on: ubuntu-latest
+    steps:     
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: master
+      - name: OWASP ZAP Full Scan
+        uses: zaproxy/action-full-scan@v0.3.0
+        with:
+          target: ${{ env.endpoint }}
+          rules_file_name: '.zap/rules.tsv'
+        env:
+          endpoint: "https://loving-easley-7c1b0c.netlify.app/"

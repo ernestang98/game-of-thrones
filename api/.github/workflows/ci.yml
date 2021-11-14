@@ -1,0 +1,107 @@
+# Preview/Staging deployment Step:
+# Article: https://okteto.com/blog/building-and-deploying-a-fastapi-app-in-okteto-cloud/
+# "Preview Deployment" action by Okteto has abit of issues, hence the previous few errors. Link I followed was from this blog post https://okteto.com/blog/ci-cd-using-gh-actions-and-okteto/
+# Commented the entire thing cause idw it to spam create namespaces and stacks on my okteto cloud lol
+
+# Testing Step
+# https://medium.com/swlh/automate-python-testing-with-github-actions-7926b5d8a865
+# https://docs.github.com/en/actions/learn-github-actions/environment-variables
+# Got ModuleNotFoundError: No module named 'schemas', hence added pip install schemas
+
+# Linking Steps/Stages:
+# https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions
+# https://github.community/t/run-next-job-sequentially-even-if-a-previous-job-fails/17404
+
+name: GOT Backend CI Pipeline
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        cd admin_ui/src
+        pip install -r requirements.txt
+    - name: Lint with flake8
+      run: |
+        pip install flake8
+        # stop the build if there are Python syntax errors or undefined names
+        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+        # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
+        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
+    - name: Test with pytest
+      run: |
+        pip install pytest
+        pip install schemas 
+        cd admin_ui/src
+        python -m pytest tests/
+      env:
+        MAIL_USERNAME: game.of.thrones.mail.service
+        MAIL_PASSWORD: game.of.thrones
+        MAIL_FROM: game.of.thrones.mail.service@gmail.com
+        MAIL_PORT: 587
+        MAIL_SERVER: smtp.gmail.com
+        MAIL_FROM_NAME: "Game of Thrones Mail Service"
+        
+  staging:
+    needs: [test]
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout
+      uses: actions/checkout@master
+
+#     - name: Login
+#       uses: okteto/login@master
+#       with:
+#         token: ${{ secrets.OKTETO_SECRET }}
+
+#     - name: Create namespace
+#       uses: okteto/create-namespace@master
+#       with:
+#         namespace: cz3003-${{ github.event.number }}-ernestang98
+   
+#     - name: Deploy application
+#       uses: okteto/deploy-stack@master
+#       with:
+#         build: "true"
+#         namespace: cz3003-${{ github.event.number }}-ernestang98
+
+#     - name: add comment to PR
+#       uses: okteto/notify-pr@master
+#       env:
+#         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#       with:
+#         message: "Preview environment available at https://fastapi-cz3003-${{ github.event.number }}-ernestang98.cloud.okteto.net" 
+  
+  load_test:
+    needs: [staging]
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Install dependencies
+      run: |
+        pip install cicadad
+        cicada-distributed start-cluster  
+        cd load-test
+        bash run_load_test.sh -r
+    - uses: actions/upload-artifact@v2
+      with:
+        name: "Load Test Report"
+        path: load-test/output.txt
+

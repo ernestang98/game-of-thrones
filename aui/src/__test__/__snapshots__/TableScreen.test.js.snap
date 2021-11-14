@@ -1,0 +1,165 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table of question screen render success 1`] = `
+<ForwardRef(Box)
+  className="App"
+>
+  <h1
+    align="center"
+  >
+    Question List
+  </h1>
+  <h4
+    align="center"
+  >
+    Add, edit, remove 
+  </h4>
+  <Table
+    columns={
+      Array [
+        Object {
+          "field": "prompt",
+          "title": "Question",
+        },
+        Object {
+          "field": "answer",
+          "lookup": Object {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+          },
+          "title": "Answer",
+        },
+        Object {
+          "field": "choice1",
+          "title": "Choice 1",
+        },
+        Object {
+          "field": "choice2",
+          "title": "Choice 2",
+        },
+        Object {
+          "field": "choice3",
+          "title": "Choice 3",
+        },
+        Object {
+          "field": "choice4",
+          "title": "Choice 4",
+        },
+        Object {
+          "field": "difficulty",
+          "lookup": Object {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+          },
+          "title": "Difficulty",
+        },
+        Object {
+          "field": "subquest_name",
+          "lookup": Object {
+            "CZ3001 Subquest 1": "CZ3001 Subquest 1",
+            "CZ3002 Subquest 1": "CZ3002 Subquest 1",
+          },
+          "title": "Sub-Quest",
+        },
+        Object {
+          "field": "points",
+          "lookup": Object {
+            "10": "10",
+            "15": "15",
+            "5": "5",
+          },
+          "title": "points",
+        },
+      ]
+    }
+    data={Array []}
+    editable={
+      Object {
+        "onRowAdd": [Function],
+        "onRowUpdate": [Function],
+      }
+    }
+    icons={
+      Object {
+        "Add": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "render": [Function],
+        },
+        "Check": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "render": [Function],
+        },
+        "Clear": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "render": [Function],
+        },
+        "Delete": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "render": [Function],
+        },
+        "DetailPanel": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "render": [Function],
+        },
+        "Edit": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "render": [Function],
+        },
+        "Export": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "render": [Function],
+        },
+        "Filter": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "render": [Function],
+        },
+        "FirstPage": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "render": [Function],
+        },
+        "LastPage": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "render": [Function],
+        },
+        "NextPage": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "render": [Function],
+        },
+        "PreviousPage": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "render": [Function],
+        },
+        "ResetSearch": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "render": [Function],
+        },
+        "Search": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "render": [Function],
+        },
+        "SortArrow": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "render": [Function],
+        },
+        "ThirdStateCheck": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "render": [Function],
+        },
+        "ViewColumn": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "render": [Function],
+        },
+      }
+    }
+    options={
+      Object {
+        "filtering": true,
+      }
+    }
+    title=""
+  />
+</ForwardRef(Box)>
+`;

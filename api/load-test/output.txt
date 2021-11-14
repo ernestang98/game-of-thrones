@@ -1,0 +1,142 @@
+===================== Starting Test: cicada-test-b3553bb7 ======================
+
+--------------------------- Collected 18 Scenario(s) ---------------------------
+
+------------- Started scenario: base_api_test (scenario-6e4e5ec0) --------------
+
+--------- Started scenario: swagger_docs_api_test (scenario-28260dc7) ----------
+
+---------- Started scenario: leaderboard_api_test (scenario-31fc9474) ----------
+
+------------- Started scenario: read_all_users (scenario-3e8fc478) -------------
+
+------- Started scenario: create_user_for_load_test (scenario-34078068) --------
+
+------ Started scenario: create_teacher_for_load_test (scenario-5d9ac066) ------
+
+----------- Started scenario: read_all_teachers (scenario-9cd429ce) ------------
+
+----- Started scenario: create_category_for_load_test (scenario-97759f02) ------
+
+----------- Started scenario: read_all_category (scenario-70a7fd40) ------------
+
+---------------------------- base_api_test: Passed -----------------------------
+
+Result: Root API Test Passed!
+
+
+------------------------ swagger_docs_api_test: Passed -------------------------
+
+------------------------- leaderboard_api_test: Passed -------------------------
+
+---------------------------- read_all_users: Passed ----------------------------
+
+---------------------- create_user_for_load_test: Passed -----------------------
+
+Result: {'email': 'LDJ2VA_loadtest@gmail.com', 'name': 'loadtest'}
+
+
+--------------------- create_teacher_for_load_test: Passed ---------------------
+
+Result: CREATE a Teacher API Test Passed!
+
+
+------ Started scenario: read_created_user_valid_test (scenario-3c8d078f) ------
+
+-- Started scenario: read_created_user_test_invalid_test (scenario-7ba0be4b) ---
+
+------- Started scenario: update_user_for_load_test (scenario-d80b7ad2) --------
+
+------- Started scenario: delete_user_for_load_test (scenario-e1c4f4ee) --------
+
+---- Started scenario: verify_delete_user_for_load_test (scenario-9437f05e) ----
+
+------ Started scenario: read_teacher_by_email_valid (scenario-f6dcd918) -------
+
+----- Started scenario: read_teacher_by_email_invalid (scenario-d6d14300) ------
+
+-------------------------- read_all_teachers: Passed ---------------------------
+
+Result: READ ALL Teacher API Test Passed!
+
+
+-------------------- create_category_for_load_test: Passed ---------------------
+
+Result: CREATE a CATEGORY API Test Passed!
+
+
+-------------------------- read_all_category: Passed ---------------------------
+
+--------------------- read_created_user_valid_test: Passed ---------------------
+
+Result: READ created student loadtest from database API Test Passed!
+
+
+----------------- read_created_user_test_invalid_test: Passed ------------------
+
+---------------------- update_user_for_load_test: Passed -----------------------
+
+Result: {'email': 'LDJ2VA_loadtest@gmail.com', 'name': 'loadtest2'}
+
+
+------ Started scenario: read_category_by_email_valid (scenario-3e1012f3) ------
+
+----- Started scenario: read_category_by_email_invalid (scenario-39557388) -----
+
+---------------------- delete_user_for_load_test: Passed -----------------------
+
+Result: DELETE created student loadtest from database API Test Passed!
+
+
+------------------- verify_delete_user_for_load_test: Passed -------------------
+
+Result: Verify DELETE created student loadtest from database API Test Passed! (timeout error from running 2 requests under one scenario hence, one request per scenario)
+
+
+--------------------- read_teacher_by_email_valid: Passed ----------------------
+
+Result: READ a Teacher using valid email API Test Passed!
+
+
+-------------------- read_teacher_by_email_invalid: Passed ---------------------
+
+Result: READ a Teacher using invalid email API Test Passed!
+
+
+--------------------- read_category_by_email_valid: Passed ---------------------
+
+Result: READ a Category using valid category API Test Passed!
+
+
+-------------------- read_category_by_email_invalid: Passed --------------------
+
+Result: READ a Category using invalid category API Test Passed!
+
+
+----------------------- Finished running 18 Scenario(s) ------------------------
+
+================================ Test Complete =================================
+
+Passed:
+
+* base_api_test
+* swagger_docs_api_test
+* leaderboard_api_test
+* read_all_users
+* create_user_for_load_test
+* create_teacher_for_load_test
+* read_all_teachers
+* create_category_for_load_test
+* read_all_category
+* read_created_user_valid_test
+* read_created_user_test_invalid_test
+* update_user_for_load_test
+* delete_user_for_load_test
+* verify_delete_user_for_load_test
+* read_teacher_by_email_valid
+* read_teacher_by_email_invalid
+* read_category_by_email_valid
+* read_category_by_email_invalid
+
+============================= 18 passed, 0 failed ==============================
+

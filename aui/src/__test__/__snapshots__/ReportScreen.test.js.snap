@@ -1,0 +1,141 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Report Main Screen render success 1`] = `
+<ForwardRef(Box)
+  sx={
+    Object {
+      "my": 5,
+    }
+  }
+>
+  <ForwardRef(Typography)
+    align="center"
+    flex-grow={1}
+    variant="h3"
+  >
+    Select Report Category
+  </ForwardRef(Typography)>
+  <ForwardRef(Box)
+    sx={
+      Object {
+        "flexGrow": 1,
+      }
+    }
+  >
+    <ForwardRef(Grid)
+      alignItems="center"
+      container={true}
+      direction="row"
+      justifyContent="space-evenly"
+      spacing={2}
+    >
+      <ForwardRef(Card)
+        sx={
+          Object {
+            "my": 7,
+          }
+        }
+      >
+        <ForwardRef(CardMedia)
+          alt="Individual Student"
+          component="img"
+          height="300"
+          src={Object {}}
+        />
+        <ForwardRef(CardContent)>
+          <ForwardRef(Typography)
+            component="div"
+            gutterBottom={true}
+            variant="h5"
+          >
+            Individual Students
+          </ForwardRef(Typography)>
+          <ForwardRef(List)>
+            <ForwardRef(ListItem)
+              button={true}
+              component={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "propTypes": Object {
+                    "innerRef": [Function],
+                    "onClick": [Function],
+                    "replace": [Function],
+                    "target": [Function],
+                    "to": [Function],
+                  },
+                  "render": [Function],
+                }
+              }
+              disablePadding={true}
+              id="indiv-link"
+              to="/indiv-report"
+            >
+              <ForwardRef(ListItemButton)>
+                <ForwardRef(ListItemIcon)>
+                  <Memo(ForwardRef(EmojiPeopleIcon)) />
+                </ForwardRef(ListItemIcon)>
+                <ForwardRef(ListItemText)
+                  primary="Individual Performance Score"
+                />
+              </ForwardRef(ListItemButton)>
+            </ForwardRef(ListItem)>
+          </ForwardRef(List)>
+        </ForwardRef(CardContent)>
+      </ForwardRef(Card)>
+      <ForwardRef(Card)
+        sx={
+          Object {
+            "my": 7,
+          }
+        }
+      >
+        <ForwardRef(CardMedia)
+          alt="Group of Students"
+          component="img"
+          height="300"
+          src={Object {}}
+        />
+        <ForwardRef(CardContent)>
+          <ForwardRef(Typography)
+            component="div"
+            gutterBottom={true}
+            variant="h5"
+          >
+            Student Cohort
+          </ForwardRef(Typography)>
+          <ForwardRef(List)>
+            <ForwardRef(ListItem)
+              button={true}
+              component={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "propTypes": Object {
+                    "innerRef": [Function],
+                    "onClick": [Function],
+                    "replace": [Function],
+                    "target": [Function],
+                    "to": [Function],
+                  },
+                  "render": [Function],
+                }
+              }
+              disablePadding={true}
+              id="cohort-link"
+              to="/cohort-report"
+            >
+              <ForwardRef(ListItemButton)>
+                <ForwardRef(ListItemIcon)>
+                  <Memo(ForwardRef(GroupsIcon)) />
+                </ForwardRef(ListItemIcon)>
+                <ForwardRef(ListItemText)
+                  primary="Cohort Performance Score"
+                />
+              </ForwardRef(ListItemButton)>
+            </ForwardRef(ListItem)>
+          </ForwardRef(List)>
+        </ForwardRef(CardContent)>
+      </ForwardRef(Card)>
+    </ForwardRef(Grid)>
+  </ForwardRef(Box)>
+</ForwardRef(Box)>
+`;

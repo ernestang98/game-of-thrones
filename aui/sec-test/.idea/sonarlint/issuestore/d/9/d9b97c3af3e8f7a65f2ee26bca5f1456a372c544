@@ -1,0 +1,84 @@
+
+;
+java:S1170"!Make this final field static too.(¶ôÚ;8æòÕ”Ñ/
+A
+java:S1170"!Make this final field static too.(íÂàÿÿÿÿÿ8ˆÅ£•Ñ/
+	java:S116"bRename this field "SECURITY_TESTING_POINTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÔ°Íÿÿÿÿÿ8æòÕ”Ñ/
+‘	java:S116"rRename this field "SECURITY_TESTING_ASSIGNMENT_DESCRIPTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÇÏûÿÿÿÿ8·‡·•Ñ/
+‡	java:S116"hRename this field "SECURITY_TESTING_QUEST_ABSENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬‚ŒÀùÿÿÿÿ8æòÕ”Ñ/
+‰	java:S116"jRename this field "SECURITY_TESTING_COURSE_PRESENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÂöøÿÿÿÿ8æòÕ”Ñ/
+;
+java:S1170"!Make this final field static too.(©¤«"8æòÕ”Ñ/
+;
+java:S1170"!Make this final field static too.(”‚Õ*8æòÕ”Ñ/
+<
+java:S1170"!Make this final field static too.(¤òã8æòÕ”Ñ/
+A
+java:S1170"!Make this final field static too.(ºñÌ–ùÿÿÿÿ8æòÕ”Ñ/
+Š	java:S116"kRename this field "SECURITY_TESTING_SAMPLE_ANSWER_4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÂàÿÿÿÿÿ8æòÕ”Ñ/
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ô›áÓ8×şæ”Ñ/
+z	java:S116"[Rename this field "TWITTER_PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¹îüùÿÿÿÿ8æòÕ”Ñ/
+…	java:S116"kRename this field "SECURITY_TESTING_SAMPLE_QUESTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÕ¯ú8æòÕ”Ñ/
+A
+java:S1170"!Make this final field static too.(²òø½şÿÿÿÿ8æòÕ”Ñ/
+A
+java:S1170"!Make this final field static too.(¬‚ŒÀùÿÿÿÿ8æòÕ”Ñ/
+w	java:S116"XRename this field "PROD_BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ˆÌôşÿÿÿÿ8æòÕ”Ñ/
+ˆ	java:S116"oRename this field "SECURITY_TESTING_ANNOUNCEMENT_HEADER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ôÚ;8æòÕ”Ñ/
+<
+java:S1170"!Make this final field static too.(…¾8æòÕ”Ñ/
+†	java:S116"lRename this field "SECURITY_TESTING_SUBQUEST_PRESENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šëí“8æòÕ”Ñ/
+A
+java:S1170"!Make this final field static too.(ÅñŸ¹ÿÿÿÿÿ8æòÕ”Ñ/
+Š	java:S116"kRename this field "SECURITY_TESTING_ASSIGNMENT_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÌËĞüÿÿÿÿ8úÒ¤•Ñ/
+A
+java:S1170"!Make this final field static too.(›®˜Õûÿÿÿÿ8æòÕ”Ñ/
+m	java:S116"SRename this field "BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ö½‹8æòÕ”Ñ/
+A
+java:S1170"!Make this final field static too.(ÿÂöøÿÿÿÿ8æòÕ”Ñ/
+Š	java:S116"kRename this field "SECURITY_TESTING_SAMPLE_ANSWER_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åˆıÿÿÿÿ8æòÕ”Ñ/
+u	java:S116"\Rename this field "FACEBOOK_PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”‚Õ*8æòÕ”Ñ/
+A
+java:S1170"!Make this final field static too.(’ˆÌôşÿÿÿÿ8æòÕ”Ñ/
+u	java:S116"\Rename this field "FACEBOOK_USERNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¤«"8æòÕ”Ñ/
+l
+java:S1192"LDefine a constant instead of duplicating this literal "//*[text()=" 7 times.(×í£áúÿÿÿÿ8æòÕ”Ñ/
+A
+java:S1170"!Make this final field static too.(ÎÔ²şùÿÿÿÿ8æòÕ”Ñ/
+A
+java:S1170"!Make this final field static too.(ëÑŒŸÿÿÿÿÿ8ˆÅ£•Ñ/
+…	java:S116"kRename this field "SECURITY_TESTING_SUBQUEST_ABSENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÈÿË8æòÕ”Ñ/
+Š	java:S116"kRename this field "SECURITY_TESTING_SAMPLE_ANSWER_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›®˜Õûÿÿÿÿ8æòÕ”Ñ/
+A
+java:S1170"!Make this final field static too.(åˆıÿÿÿÿ8æòÕ”Ñ/
+Œ	java:S116"mRename this field "SECURITY_TESTING_ANNOUNCEMENT_BODY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºñÌ–ùÿÿÿÿ8æòÕ”Ñ/
+A
+java:S1170"!Make this final field static too.(Ô¹îüùÿÿÿÿ8æòÕ”Ñ/
+ƒ	java:S116"iRename this field "SECURITY_TESTING_COURSE_ABSENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤òã8æòÕ”Ñ/
+A
+java:S1170"!Make this final field static too.(¶è…ûÿÿÿÿ8æòÕ”Ñ/
+…	java:S116"kRename this field "SECURITY_TESTING_SAMPLE_ANSWER_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¾8æòÕ”Ñ/
+{
+java:S1192"[Define a constant instead of duplicating this literal "input-with-icon-textfield" 23 times.(¿¦™áıÿÿÿÿ8—„¤…Í/
+e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Öì¬ˆùÿÿÿÿ8×şæ”Ñ/
+<
+java:S1170"!Make this final field static too.(Šëí“8æòÕ”Ñ/
+z	java:S116"[Rename this field "TWITTER_USERNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÔ²şùÿÿÿÿ8æòÕ”Ñ/
+‰	java:S116"jRename this field "SECURITY_TESTING_CORRECT_ANSWER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÑŒŸÿÿÿÿÿ8æòÕ”Ñ/
+x	java:S116"YRename this field "LOCAL_BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶è…ûÿÿÿÿ8æòÕ”Ñ/
+Œ	java:S116"mRename this field "SECURITY_TESTING_SAMPLE_DIFFICULTY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¼§“úÿÿÿÿ8æòÕ”Ñ/
+	java:S116"pRename this field "SECURITY_TESTING_ANNOUNCEMENT_SUBJECT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅñŸ¹ÿÿÿÿÿ8æòÕ”Ñ/
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í¢Â»
+ˆ	java:S116"iRename this field "SECURITY_TESTING_QUEST_PRESENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²òø½şÿÿÿÿ8æòÕ”Ñ/
+<
+java:S1170"!Make this final field static too.(õÕ¯ú8æòÕ”Ñ/
+<
+java:S1170"!Make this final field static too.(¿ÈÿË8æòÕ”Ñ/
+A
+java:S1170"!Make this final field static too.(õ¼§“úÿÿÿÿ8æòÕ”Ñ/
+A
+java:S1170"!Make this final field static too.(ÎÔ°Íÿÿÿÿÿ8¶ô®Ñ/
+A
+java:S1170"!Make this final field static too.(®ÌËĞüÿÿÿÿ8¶ô®Ñ/
+A
+java:S1170"!Make this final field static too.(©ÇÏûÿÿÿÿ8¶ô®Ñ/
