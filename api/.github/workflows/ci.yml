@@ -12,6 +12,9 @@
 # https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions
 # https://github.community/t/run-next-job-sequentially-even-if-a-previous-job-fails/17404
 
+# Add inline-css to HTML report for PyTest
+# https://stackoverflow.com/questions/50640996/how-to-share-html-report-of-pytest-html-with-out-changing-the-css
+
 name: GOT Backend CI Pipeline
 
 on:
@@ -44,7 +47,7 @@ jobs:
     - name: Test with pytest
       run: |
         pip install pytest
-        pip install schemas 
+        pip install pytest-html
         cd admin_ui/src
         python -m pytest tests/ --html=report.html --self-contained-html
       env:
