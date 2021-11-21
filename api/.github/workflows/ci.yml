@@ -46,7 +46,7 @@ jobs:
         pip install pytest
         pip install schemas 
         cd admin_ui/src
-        python -m pytest tests/
+        python -m pytest tests/ --html=report.html --self-contained-html
       env:
         MAIL_USERNAME: game.of.thrones.mail.service
         MAIL_PASSWORD: game.of.thrones
@@ -54,7 +54,10 @@ jobs:
         MAIL_PORT: 587
         MAIL_SERVER: smtp.gmail.com
         MAIL_FROM_NAME: "Game of Thrones Mail Service"
-        
+    - uses: actions/upload-artifact@v2
+      with:
+        name: "PyTest Report"
+        path: admin_ui/src/report.html
   staging:
     needs: [test]
     runs-on: ubuntu-latest
