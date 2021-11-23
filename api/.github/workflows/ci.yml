@@ -12,16 +12,18 @@
 # https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions
 # https://github.community/t/run-next-job-sequentially-even-if-a-previous-job-fails/17404
 
-# Add inline-css to HTML report for PyTest
+# Add inline-css to HTML report for PyTEst
 # https://stackoverflow.com/questions/50640996/how-to-share-html-report-of-pytest-html-with-out-changing-the-css
 
-name: GOT Backend CI Pipeline
+name: GOT API CI Pipeline
 
-on:
-  push:
-    branches: [ main ]
+on: 
   pull_request:
-    branches: [ main ]
+    branches:
+      - main
+  push:
+    branches:
+      - main
 
 jobs:
   test:
@@ -61,6 +63,7 @@ jobs:
       with:
         name: "PyTest Report"
         path: admin_ui/src/report.html
+        
   staging:
     needs: [test]
     runs-on: ubuntu-latest
@@ -103,6 +106,8 @@ jobs:
     - name: Install dependencies
       run: |
         pip install cicadad
+    - name: Load Test
+      run: |
         cicada-distributed start-cluster  
         cd load-test
         bash run_load_test.sh -r
@@ -110,4 +115,3 @@ jobs:
       with:
         name: "Load Test Report"
         path: load-test/output.txt
-
