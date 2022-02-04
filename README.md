@@ -17,3 +17,7 @@ Questions quizzed on the platform are added by teachers on a separate full-stack
 - [Project Demonstration](https://www.youtube.com/watch?v=8fV7pFWjwcU)
 
 - [Project Presentation](https://www.youtube.com/watch?v=9UDTRUR-dSk) 
+
+## Notes
+
+- Game repository is incomplete as I am unable to push the full source code to github due to file size restrictions (entire project size ~10GB).
