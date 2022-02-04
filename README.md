@@ -20,4 +20,4 @@ Questions quizzed on the platform are added by teachers on a separate full-stack
 
 ## Notes
 
-- Game repository is incomplete as I am unable to push the full source code to github due to file size restrictions (entire project size ~10GB).
+- Game repository is incomplete as full source code cannot be pushed to github due to file size restrictions (entire project size ~10GB).
